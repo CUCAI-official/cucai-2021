@@ -523,9 +523,9 @@ const Hero = ({ data, heading, slogan, location, date, cta1, cta2 }) => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="CUCAI-2021-Delegates-Package.pdf"
+              href="CUCAI_2021_Proceedings.pdf"
             >
-              <Button backgroundColour="white">Delegates Package</Button>
+              <Button backgroundColour="white">Conference Proceedings</Button>
             </a>
             <a href="#sponsors">
               <Button borderStyle="solid" borderColour="#174461">
@@ -818,9 +818,9 @@ const DesignTeamShowcase = ({ data }) => {
             interactive demonstrations shifted to an online format for 30+
             design teams from across Canada.
           </p>
-          <a href="Proceedings-of-CUCAI-2020.pdf">
+          <a href="CUCAI_2021_Proceedings.pdf">
             <Button backgroundColour="white">
-              Download the 2020 Proceedings
+              Download the 2021 Proceedings
             </Button>
           </a>
         </EventTitleAndDesc>
